@@ -1,2 +1,2 @@
 # department-website-Chatbot
-chatbot for CSE department website GEC Palakkad using webscraping..
+chatbot for CSE department website GEC Palakkad using NLP
